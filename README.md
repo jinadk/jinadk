@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jinadk
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning bsc data science 
+- 🌱 I’m currently self learning coding
 - 💞️ I’m looking to collaborate on new and interesting projects
 - 📫 Connect with me on jinadkamal73@gmail.com
 - ⚡ Fun fact: couch potato 
